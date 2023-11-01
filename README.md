@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/XqqiIrotqkZWw/giphy.gif"
+<img src="https://media2.giphy.com/media/XqqiIrotqkZWw/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Salma Hayya</h1>
 
